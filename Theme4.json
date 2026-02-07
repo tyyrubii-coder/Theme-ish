@@ -1,0 +1,31 @@
+{
+    "name": "Molokai",
+    "version": 1,
+    "shared": {
+        "foregroundColor": "#BBBBBB",
+        "backgroundColor": "#121212",
+        "cursorColor": "#BBBBBB",
+        "colorPaletteOverrides": [
+            "#121212",
+            "#FA2573",
+            "#97E123",
+            "#DFD460",
+            "#0F7FCF",
+            "#8700FF",
+            "#42A7CF",
+            "#BBBBBB",
+            "#555555",
+            "#F5669C",
+            "#B0E05E",
+            "#FEF26C",
+            "#00AFFF",
+            "#AF87FF",
+            "#50CDFE",
+            "#FFFFFF"
+        ]
+    },
+    "appearance": {
+        "lightOverride": true,
+        "darkOverride": false
+    }
+}
