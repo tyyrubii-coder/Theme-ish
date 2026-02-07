@@ -1,0 +1,31 @@
+{
+    "name": "Synthwave",
+    "version": 1,
+    "shared": {
+        "foregroundColor": "#DAD9C7",
+        "backgroundColor": "#000000",
+        "cursorColor": "#19CDE6",
+        "colorPaletteOverrides": [
+            "#000000",
+            "#F6188F",
+            "#1EBB2B",
+            "#FDF834",
+            "#2186EC",
+            "#F85A21",
+            "#12C3E2",
+            "#FFFFFF",
+            "#000000",
+            "#F841A0",
+            "#25C141",
+            "#FDF454",
+            "#2F9DED",
+            "#F97137",
+            "#19CDE6",
+            "#FFFFFF"
+        ]
+    },
+    "appearance": {
+        "lightOverride": true,
+        "darkOverride": false
+    }
+}
