@@ -1,0 +1,31 @@
+{
+    "name": "Hopscotch",
+    "version": 1,
+    "shared": {
+        "foregroundColor": "#B9B5B8",
+        "backgroundColor": "#322931",
+        "cursorColor": "#B9B5B8",
+        "colorPaletteOverrides": [
+            "#322931",
+            "#DD464C",
+            "#8FC13E",
+            "#FDCC59",
+            "#1290BF",
+            "#C85E7C",
+            "#149B93",
+            "#B9B5B8",
+            "#797379",
+            "#DD464C",
+            "#8FC13E",
+            "#FDCC59",
+            "#1290BF",
+            "#C85E7C",
+            "#149B93",
+            "#FFFFFF"
+        ]
+    },
+    "appearance": {
+        "lightOverride": true,
+        "darkOverride": false
+    }
+}
