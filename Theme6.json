@@ -1,0 +1,31 @@
+{
+    "name": "Ayu",
+    "version": 1,
+    "shared": {
+        "foregroundColor": "#B3B1AD",
+        "backgroundColor": "#0A0E14",
+        "cursorColor": "#FFCC66",
+        "colorPaletteOverrides": [
+            "#02060D",
+            "#F07178",
+            "#C2D94C",
+            "#FFB454",
+            "#59C2FF",
+            "#FFEE99",
+            "#95E6CB",
+            "#C7C7C7",
+            "#686868",
+            "#F07178",
+            "#C2D94C",
+            "#FFB454",
+            "#59C2FF",
+            "#FFEE99",
+            "#95E6CB",
+            "#FFFFFF"
+        ]
+    },
+    "appearance": {
+        "lightOverride": true,
+        "darkOverride": false
+    }
+}
